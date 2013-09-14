@@ -10,6 +10,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sluoke.com/2013/</loc>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sluoke.com/2013/index.html</loc>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sluoke.com/archive.html</loc>
   <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
@@ -50,6 +60,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://sluoke.com/posts/ce-shi.html</loc>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sluoke.com/posts/test.html</loc>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://sluoke.com/zh_cn/</loc>
   <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
@@ -81,6 +101,11 @@
  </url>
  <url>
   <loc>http://sluoke.com/zh_cn/index.html</loc>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://sluoke.com/zh_cn/posts/ce-shi.html</loc>
   <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
  </url>
